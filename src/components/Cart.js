@@ -55,7 +55,7 @@ const Cart = ({ itensNoCarrinho, closeCart, isCartShown }) => {
 
       {carrinhoContent}
 
-    </section>
+    </section>g
   )
 }
 
