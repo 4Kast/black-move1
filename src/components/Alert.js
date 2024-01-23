@@ -15,7 +15,7 @@ const Alert = () => {
 
   if (alert.type === 'bad') {
     classStatus = classes.bad
-  }h
+  }
 
   const styles = `${alertIsShown ? classes.alertShown : ''} ${classStatus} ${classes.alerta}`
 
