@@ -1,0 +1,80 @@
+.notFound {
+  background-color: #f8f5f1;
+  color: #5d473b;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  font-family: 'Times New Roman', Times, serif;
+
+  text-align: center; /* added to center the text */
+  
+}
+
+.sub {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.userName {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  font-family: sans-serif;
+}
+
+.orderedItems {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  font-size: 1.2em;
+}
+
+.itemsHeader {
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.orderList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.item {
+  margin-bottom: 10px;
+  
+}
+
+
+
+.whatsAppButton {
+  background-color: #25D366;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50;
+  display: block;
+  font-family: sans-serif;
+}
+
+
+.whatsAppButton:hover {
+  background-color: #1E0F2F;
+}
+
+/* added a headline class for the descriptive headline */
+.headline {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #8c6a51; /* changed the color to create contrast */
+}
+
